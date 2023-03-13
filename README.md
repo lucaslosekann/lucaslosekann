@@ -1,5 +1,5 @@
 <h1 align="center">Oie 👋, Eu sou o Lucas</h1>
-<h3 align="center">Um desenvolvedor full stack de Balneário Gaivota, SC</h3>
+<h3 align="center">Um desenvolvedor full stack de Itajaí, SC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaslosekann&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="lucaslosekann" /> </p>
 
