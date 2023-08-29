@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo **NestJS**
 
-- 💬 Me pergunte sobre **React**
+- 💬 Me pergunte sobre **Node.js**
 
 - 📫 Como entrar em contato: **lucas1losekann@gmail.com**
 
